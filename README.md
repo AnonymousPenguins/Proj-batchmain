@@ -1,4 +1,5 @@
 # Batch-Development-Fun
-This is a repository for two friends to make cool stuff.
+This branch is currently processing "Input Replicator", a batch file that will replicate inputed text.
 
-This repository is only to be used by authorised contributors.
+Authors
+DK inc in cooperation with Suited Finch productions.
