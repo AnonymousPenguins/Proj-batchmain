@@ -1,3 +1,3 @@
-# Proj-batchmain
-This is a repository for two friends to make cool stuff.
-(In batch)
+# mtg-lifecount
+Branch focusing on life counter for use in keeping record of life points in MTG
+Authors,
