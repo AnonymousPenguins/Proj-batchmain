@@ -1,3 +1,2 @@
-# Proj-batchmain
-This is a repository for two friends to make cool stuff.
-(In batch)
+# batch-passwordgenerate
+Generates a random 10 digit password and makes you rich and good looking fast.
