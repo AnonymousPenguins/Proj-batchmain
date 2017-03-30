@@ -6,6 +6,14 @@ This is a premium application, thus restricted access is enforced.
 Currently only the following users are able to use the application:
 KON0013
 JEG0001
+----
+# Changelog
+30 MARCH 2017;
+**UPDATED TO preRTM 1.9.20170330**
+-Compiled into exe
+-Embedded EULA into exe using txt file
+-Performance improvements and bug fixes
+----
 
 -Other users will have an "invalid license" message when attempting to launch the application.
 -Added ability to add expiry dates for users
