@@ -24,7 +24,11 @@ JEG0001
 -Added ability to add expiry dates for users
 
 -Order form for 7 day free trials, monthly subscriptions and lifetime licenses now live at
+https://goo.gl/9rcYBP
+
 https://forms.office.com/Pages/ResponsePage.aspx?id=oPaL4yYwlEuRkILHpcjYoXtriaiWpjJFtMYvoIxieT9UMVA5SjNKUlJLQTBXWUxLOVlMOFVQQURRMy4u
 
 -Feedback form for suggestions abd bugs now live at
+https://goo.gl/hAjDJJ
+
 https://forms.office.com/Pages/ResponsePage.aspx?id=oPaL4yYwlEuRkILHpcjYoXtriaiWpjJFtMYvoIxieT9UODdYWlBZUUtNN0NUQUJSNUMxSDA2UVo4MS4u
