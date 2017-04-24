@@ -6,8 +6,21 @@ This is a premium application, thus restricted access is enforced.
 Currently only the following users are able to use the application:
 KON0013
 JEG0001
+
+By subscription:
+SIM0036 LIM0017
 ----
 # Changelog
+
+24 APRIL 2017;
+
+**UPDATED TO preRTM 2.0.x** NOT READY FOR RTM
+
+-Added first run welcome message to accept EULA, once only
+
+-Added ability to export final scores to txt on desktop
+
+-Performance improvements and bug fixes
 
 30 MARCH 2017;
 **UPDATED TO preRTM 1.9.20170330**
